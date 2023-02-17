@@ -162,4 +162,4 @@ ALTER TABLE user_phone ADD CONSTRAINT FK_user_userphone
 
 
 ## Diagrama
-
+![diagram](diagrama/Diagrama sequencia-registro de usuario.drawio.png)
